@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align>
+<img src="img/anime_typing.gif">
+</p>
 <!--
 **VijayaGB98/VijayaGB98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,6 +8,7 @@
 - **I'm working on a couple of personal projects.**
 
 ## Languages and Tools
+**Languages:** ![Python](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png)
 
 ## Social Media Stats
 ![GitHub Followers](https://img.shields.io/github/followers/VijayaGB98?label=GitHub%20Followers&style=for-the-badge) ![Twitter](https://img.shields.io/twitter/follow/VijayaGb?label=Twitter%20Followers&style=for-the-badge)

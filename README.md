@@ -8,7 +8,7 @@
 - **I'm working on a couple of personal projects.**
 
 ## Languages and Tools
-**Languages:** ![Python](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png)
+**Languages:** ![Python](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png) ![Java](https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png) ![CSharp](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_24x24.png) ![JavaScript](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png) ![TypeScript](https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_24x24.png) ![Cpp](https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png) ![html5](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_24x24.png) ![css](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_24x24.png)
 
 ## Social Media Stats
 ![GitHub Followers](https://img.shields.io/github/followers/VijayaGB98?label=GitHub%20Followers&style=for-the-badge) ![Twitter](https://img.shields.io/twitter/follow/VijayaGb?label=Twitter%20Followers&style=for-the-badge)

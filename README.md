@@ -5,11 +5,9 @@
 - I'm learning web development.
 - I'm writing research papers.
 
-## Technology
-
-
 ## Social Media Stats
 ![GitHub Followers](https://img.shields.io/github/followers/VijayaGB98?label=GitHub%20Followers&style=for-the-badge) ![Twitter](https://img.shields.io/twitter/follow/VijayaGb?label=Twitter%20Followers&style=for-the-badge)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VijayaGB98&show_icons=true&theme=rgraywhite)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VijayaGB98/VijayaGB98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

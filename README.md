@@ -1,5 +1,5 @@
 # Welcome to my profile! Call me Vijaya/Tomboy/Gigabyte!
-[<img align="center" alt="Keyboard typing" src="img/anime_typing.gif"/>][https://media1.tenor.com/images/5161ae4246c84f469a9a2d191e4e1b1f/tenor.gif?itemid=16461882]
+!(Anime typing)[https://media1.tenor.com/images/5161ae4246c84f469a9a2d191e4e1b1f/tenor.gif?itemid=16461882]
 <!--
 **VijayaGB98/VijayaGB98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

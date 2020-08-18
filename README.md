@@ -6,6 +6,7 @@
 - **I'm learning web development.**
 - **I'm writing research papers.**
 - **I'm working on a couple of personal projects.**
+- **I'm grinding leetcode**
 
 ## Languages and Tools
 **Languages:** ![Python](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png) ![Java](https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png) ![CSharp](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_24x24.png) ![JavaScript](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png) ![TypeScript](https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_24x24.png) ![Cpp](https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png) ![html5](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_24x24.png) ![css](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_24x24.png)

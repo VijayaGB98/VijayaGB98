@@ -1,5 +1,13 @@
 # Welcome to my profile! Call me Vijaya/Tomboy/Gigabyte!
-!(Anime typing)[https://media1.tenor.com/images/5161ae4246c84f469a9a2d191e4e1b1f/tenor.gif?itemid=16461882]
+![Anime typing](img/anime_typing.gif)
+
+
+
+## What am I currently doing?
+- I'm learning web development
+
+## Social Media
+![GitHub Followers](https://img.shields.io/github/followers/VijayaGB98?label=GitHub%20Followers&style=for-the-badge) ![Twitter](https://img.shields.io/twitter/follow/VijayaGb?label=Twitter%20Followers&style=for-the-badge)
 <!--
 **VijayaGB98/VijayaGB98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
